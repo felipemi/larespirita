@@ -1,0 +1,18 @@
+#sidebar {color: #AFB0B1; background: #0D171A; float:left; margin:0 0 24px; padding:15px 10px 10px; width:300px; margin-left: 25px;}
+#sidebar ul {font-size:1.2em; list-style-type:none; margin:0; padding:0; position:relative;}
+.rating {height:8px; text-indent:-900em; margin:0 0 9px;}
+
+.none {background-position: 82px 0px;}
+.tags {color: #FFF;}
+
+.tags a, .tags span {background-color: #333839; font-size: 0.8em; padding: 0.1em 0.8em 0.2em;}
+.tags a:link, .tags a:visited {color: #FFF; text-decoration: none;	}
+.tags a:hover, .tags a:active {background-color: #3e4448; color: #FFF; text-decoration: none;}
+
+#sidebar li {height: 90px; overflow: hidden; padding: 0.1em 0.8em 0.2em;}
+#sidebar li h5 {color:#A5A9AB; font-size:1em; margin-bottom:0.5em;}
+#sidebar li h5 a {color:#A5A9AB; text-decoration:none;}
+#sidebar li img {float:left; margin-right:8px;}
+#sidebar li .info {color:#3E4548; font-size:1em;}
+#sidebar .info a, #sidebar .info a:visited {color:#3E4548; text-decoration: none;}
+#sidebar .spyWrapper {height: 100%; overflow: hidden; position: relative;}
